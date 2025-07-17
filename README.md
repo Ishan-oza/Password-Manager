@@ -39,8 +39,8 @@ Just double-click password_manager_gui.exe (no Python needed)
 ![CLI Demo](screenshots/cli_usage.png)
 
 ### 🖼 GUI Version
-![GUI App](screenshots/gui_main_1.png)
-![GUI App](screenshots/gui_main_2.png)
+![GUI App](screenshots/gui_usage_1.png)
+![GUI App](screenshots/gui_usage_2.png)
 
 ### 🪟 EXE Running on Windows
 ![Windows EXE](screenshots/exe_demo.png)
