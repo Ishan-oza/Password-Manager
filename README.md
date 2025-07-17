@@ -21,9 +21,12 @@ This is a simple and secure password manager made using Python. It supports both
 ### CLI Version:
 ```bash
 python password_manager_cli.py
+```
 
 ### GUI Version:
+```bash
 python password_manager_gui.py
+```
 
 ### Windows Executable:
 Just double-click password_manager_gui.exe (no Python needed)
